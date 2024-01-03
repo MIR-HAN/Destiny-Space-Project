@@ -8,5 +8,5 @@ Website is coded with HTML CSS and JAVASCRIPT
 
 <h2>Screen </h2>
 
-![](web.gif)
-![](mobile.gif)
+![](Web.gif)
+![](Mobile.gif)
